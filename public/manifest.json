@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Redux Middleware",
+  "name": "React Redux Middleware",
   "icons": [
     {
       "src": "favicon.ico",
